@@ -62,4 +62,12 @@ El detalle completo del pipeline y las decisiones está en `docs/PIPELINE_COMPLE
 
 ## Licencia
 
-Pendiente.
+MIT. Ver `LICENSE`.
+
+## Créditos
+
+- **StarDist** (Weigert et al., 2018/2020) — segmentación de núcleos/células con polígonos star-convex. Licencia BSD-3-Clause.
+  - Repo: https://github.com/stardist/stardist
+  - Web: https://stardist.net
+- **Centroides v1/v2/v3** — modelo propio basado en ResNet-18 + FPN para detección de centroides de copas.
+- **CVAT** — anotación manual y revisión de resultados.
