@@ -1,0 +1,16 @@
+{
+ "id": "marcosalvarez234/limon-ronda1b",
+ "title": "Limon Ronda1b Retrain",
+ "code_file": "ronda1b.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "marcosalvarez234/limon-gold-v1",
+  "marcosalvarez234/limon-r1-pseudo"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

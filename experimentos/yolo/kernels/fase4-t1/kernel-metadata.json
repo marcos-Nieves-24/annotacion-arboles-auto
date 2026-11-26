@@ -1,0 +1,15 @@
+{
+ "id": "marcosalvarez234/limon-t1-yolo-clean-on-gold-v2",
+ "title": "Limon T1 - YOLO clean on gold_v2",
+ "code_file": "fase4-t1.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "marcosalvarez234/limon-gold-v2d"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

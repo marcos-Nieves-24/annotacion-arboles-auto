@@ -1,0 +1,17 @@
+{
+ "id": "marcosalvarez234/limon-t2-yolo-sam-box-prompt",
+ "title": "Limon T2 - YOLO SAM box prompt",
+ "code_file": "fase4-t2.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "kernel_sources": [
+  "marcosalvarez234/limon-t1b-single-yolo-all-gold"
+ ],
+ "dataset_sources": [
+  "marcosalvarez234/limon-gold-v2d"
+ ],
+ "competition_sources": []
+}

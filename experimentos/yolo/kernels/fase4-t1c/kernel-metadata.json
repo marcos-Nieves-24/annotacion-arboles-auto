@@ -1,0 +1,15 @@
+{
+ "id": "marcosalvarez234/limon-fase4-t1c-retrain",
+ "title": "Limon Fase4 T1c Retrain",
+ "code_file": "fase4-t1c.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "marcosalvarez234/limon-gold-v2d"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

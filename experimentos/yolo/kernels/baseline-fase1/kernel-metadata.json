@@ -1,0 +1,15 @@
+{
+ "id": "marcosalvarez234/limon-baseline-fase1-private",
+ "title": "Limon Baseline Fase1 Private",
+ "code_file": "baseline-fase1.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "marcosalvarez234/limon-gold-v1"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

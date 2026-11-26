@@ -1,0 +1,15 @@
+{
+ "id": "marcosalvarez234/limon-fase2d-aug",
+ "title": "Limon Fase2d Aug",
+ "code_file": "fase2d-aug.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "marcosalvarez234/limon-gold-v1"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

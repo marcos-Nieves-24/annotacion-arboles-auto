@@ -1,0 +1,13 @@
+# Dependencias locales (inferencia + análisis). Entrenamiento corre en Kaggle.
+numpy>=1.24
+opencv-python>=4.8
+Pillow>=10.0
+matplotlib>=3.7
+torch>=2.1
+torchvision>=0.16
+scipy>=1.11
+scikit-image>=0.22
+# Segmentación (StarDist) - backend TensorFlow (usado en kernels Kaggle)
+stardist>=0.9
+csbdeep>=0.7
+tensorflow>=2.13

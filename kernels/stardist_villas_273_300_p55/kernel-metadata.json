@@ -1,0 +1,16 @@
+{
+ "id": "marcosalvarez234/limon-stardist-villas-273-300-p55",
+ "title": "Limon StarDist Villas 273 300 p55",
+ "code_file": "stardist_villas_273_300_p55.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "marcosalvarez234/villas-273-300",
+  "marcosalvarez234/limon-stardist-v1-weights"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

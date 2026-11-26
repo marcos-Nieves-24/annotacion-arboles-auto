@@ -1,0 +1,15 @@
+{
+ "id": "marcosalvarez234/limon-centroides-v1",
+ "title": "Limon Centroides V1",
+ "code_file": "centroides.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "marcosalvarez234/limon-gold-v2d"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

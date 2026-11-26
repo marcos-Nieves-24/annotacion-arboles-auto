@@ -1,0 +1,50 @@
+# Datos y artefactos pesados (no versionar)
+data/
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.json.bak
+
+# Entornos virtuales
+.venv*/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Playwright / tooling
+.playwright-mcp/
+
+# Logs y outputs
+*.log
+*.csv
+!docs/**/*.csv
+
+# Artículos de referencia (pesados, no son pipeline)
+docs/articles/*.pdf
+
+# Kernels outputs (solo versionar source + metadata)
+kernels/**/stardist_*.json
+kernels/**/*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.key
+.env
+**/ronda1.py
+**/dl_parallel.sh

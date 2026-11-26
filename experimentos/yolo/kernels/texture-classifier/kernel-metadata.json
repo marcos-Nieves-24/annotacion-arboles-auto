@@ -1,0 +1,15 @@
+{
+ "id": "marcosalvarez234/limon-texture-classifier-v3-hardneg",
+ "title": "Limon Texture Classifier V3 HardNeg",
+ "code_file": "texture-classifier.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "marcosalvarez234/limon-texture-patches-v3"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

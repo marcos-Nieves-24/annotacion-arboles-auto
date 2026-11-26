@@ -1,0 +1,16 @@
+{
+ "id": "marcosalvarez234/limon-stardist-262-300",
+ "title": "Limon StarDist 262-300",
+ "code_file": "stardist_262_300.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "marcosalvarez234/limon-stardist-v1-weights",
+  "marcosalvarez234/villas-262-300"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

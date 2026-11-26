@@ -1,0 +1,15 @@
+{
+ "id": "marcosalvarez234/limon-stardist-v1",
+ "title": "Limon StarDist V1",
+ "code_file": "stardist_v1.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "marcosalvarez234/limon-gold-v2d"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

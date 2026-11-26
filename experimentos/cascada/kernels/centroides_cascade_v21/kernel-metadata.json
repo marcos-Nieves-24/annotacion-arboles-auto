@@ -1,0 +1,17 @@
+{
+ "id": "marcosalvarez234/limon-centroides-cascade-v21",
+ "title": "Limon Centroides Cascade V21",
+ "code_file": "cascade_v21.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "marcosalvarez234/limon-gold-v2d"
+ ],
+ "competition_sources": [],
+ "kernel_sources": [
+  "marcosalvarez234/limon-centroides-v3-head"
+ ]
+}

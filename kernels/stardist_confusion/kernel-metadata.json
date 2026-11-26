@@ -1,0 +1,16 @@
+{
+ "id": "marcosalvarez234/limon-stardist-confusion",
+ "title": "Limon StarDist confusion vs gold_v2",
+ "code_file": "stardist_confusion.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "marcosalvarez234/limon-gold-v2d",
+  "marcosalvarez234/limon-stardist-v1-weights"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

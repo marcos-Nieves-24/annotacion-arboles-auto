@@ -1,0 +1,16 @@
+{
+ "id": "marcosalvarez234/limon-stardist-magdala-240-300",
+ "title": "Limon StarDist Magdala 240 300",
+ "code_file": "stardist_magdala_240_300.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "marcosalvarez234/magdala-240-300",
+  "marcosalvarez234/limon-stardist-v1-weights"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

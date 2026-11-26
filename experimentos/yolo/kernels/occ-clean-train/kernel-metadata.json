@@ -1,0 +1,16 @@
+{
+ "id": "marcosalvarez234/limon-occ-clean-train",
+ "title": "Limon Occ Clean Train",
+ "code_file": "occ-clean-train.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "true",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "marcosalvarez234/limon-gold-v1",
+  "marcosalvarez234/limon-occ-clean"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}
